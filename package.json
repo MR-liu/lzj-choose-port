@@ -1,0 +1,24 @@
+{
+  "name": "lzj-choose-port",
+  "version": "1.0.0",
+  "description": "lzj-choose-port",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MR-liu/lzj-choose-port.git"
+  },
+  "keywords": [],
+  "author": "LZJ <liuzejin@sina.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MR-liu/lzj-choose-port/issues"
+  },
+  "homepage": "https://github.com/MR-liu/lzj-choose-port#readme",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "detect-port-alt": "^1.1.6"
+  }
+}
