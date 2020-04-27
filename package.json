@@ -1,6 +1,6 @@
 {
   "name": "lzj-choose-port",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "lzj-choose-port",
   "main": "index.js",
   "scripts": {
@@ -19,6 +19,6 @@
   "homepage": "https://github.com/MR-liu/lzj-choose-port#readme",
   "dependencies": {
     "chalk": "^4.0.0",
-    "detect-port-alt": "^1.1.6"
+    "detect-port": "^1.3.0"
   }
 }

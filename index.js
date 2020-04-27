@@ -1,4 +1,4 @@
-const detect = require('detect-port-alt');
+const detect = require('detect-port');
 const chalk = require('chalk');
 
 function choosePort(defaultPort) {
